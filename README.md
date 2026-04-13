@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devendra1711
-- 👀 I’m interested in Web Developmentm, AI and Machine Learning
+- 👀 I’m interested in Web Development, AI and Machine Learning
 - 🌱 I’m currently learning coding languages
-- 💞️ I’m looking to collaborate with Microsoft
 - 📫 How to reach me My Instagram ID - devendra.17x
 
 
